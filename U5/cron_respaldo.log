@@ -1,0 +1,19 @@
+Sistema de respaldo Monserrat Gaspar
+jue 12 mar 2026 12:00:02 CST
+7.1G	/home/mgaspar
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,8 CPUs QEMU Virtual CPU version 2.5+ (60FB1),ASM,AES-NI)
+
+Scanning the drive:
+2776 folders, 13752 files, 3258794959 bytes (3108 MiB)
+
+Creating archive: /home/mgaspar/respaldos/mirespaldo_2026-03-12_12-00-04.7z
+
+Items to compress: 16528
+
+
+Files read from disk: 13720
+Archive size: 2170500602 bytes (2070 MiB)
+Everything is Ok
+Respaldo creado :) /home/mgaspar/respaldos/mirespaldo_2026-03-12_12-00-04.7z

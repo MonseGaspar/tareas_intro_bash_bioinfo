@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# script de bash para crear respaldo de mi home  
+# 050326 v 1.0.0
+CARPETA=$HOME/tareas_intro_bash_bioinfo
+echo "sistemas de respaldo Monserrat Gaspar"
+date 
+du -sh ~
+7z a $HOME/respaldo.7z $HOME/
+# si es una carpeta 
+#7z a $HOME/ruta de la carpeta
+7z a "$HOME/respaldos/home_${USER}_$(date +'%Y-%m-%d_%H-%M-%S').7z" "$HOME"
+

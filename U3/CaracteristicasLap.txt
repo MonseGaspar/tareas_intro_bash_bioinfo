@@ -1,0 +1,21 @@
+Tarea unidad 3.
+1) Identificación del equipo: Marca y modelo: Surface Laptop 4
+2) Sistema operativo
+Sistema operativo: Windows
+Versión exacta: Microsoft Windows 11 Home 24H2
+Arquitectura del sistema: Tipo de sistema	x64-based PC 3)  64 bits
+CPU
+Modelo exacto: AMD Ryzen 5 Microsoft Surface (R) Edition, 2201 Mhz
+Núcleos / hilos: 6 procesadores principales, 12 procesadores lógicos
+Frecuencia base: 2.20 GHz
+4) Memoria RAM
+RAM instalada (GB): 16GB
+Tipo y velocidad (si aparece): LPDDR4x (~4266 MHz)
+Capacidad máxima soportada de RAM (según fabricante o specs): 16GB (ya tengo el máximo).
+5) Almacenamiento
+Tipo: SSD (NVMe) Capacidad total:2TB
+¿Se puede agregar o cambiar por un SSD o NVMe? Ya se cambió para tener 2 TB 
+6) Gráficos (GPU)
+¿Integrados o dedicada? Graficos integrados AMD Radeon(TM) Graphics
+7) Reflexión final (breve)¿qué limita más tu equipo para bioinformática:
+Para tareas de bioinformática y análisis de datos, el principal factor limitante de mi laptop es la RAM, ya que muchos procesos requieren cargar grandes conjuntos de datos en la memoria. Aunque mi procesador Ryzen ofrece buen rendimiento multinúcleo y el almacenamiento NVMe permite lecturas y escrituras rápidas, los análisis pesados pueden verse restringidos por la memoria disponible, por lo tanto utilizar un servidor es una gran oportunidad para poder hacer mis an
